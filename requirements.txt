@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+spacy
+textstat
+scikit-learn
+matplotlib
+seaborn
